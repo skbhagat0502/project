@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "a project with hitesh sir",
   "type": "module",
-  "main": "./src/index.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon src/index.js"
   },
   "author": "Sandeep Kumar Bhagat",
   "license": "ISC",
